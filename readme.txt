@@ -4,8 +4,9 @@ Git is free software distributed under the GPL.
 fadsfsafasfsdf
 
 ffasdfa123123123sffsafsfsa
-<<<<<<< Updated upstream
 12312312aaaaaa
-int main
+int main()
+{
+}
 
 
